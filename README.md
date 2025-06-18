@@ -1,5 +1,10 @@
-## Hi there 👋
+## 👋 Hi ,I'm Akhil T S
+I'm a Full Stack Development student and a passionate learner in the field of Blockchain Technology.
 
+## About Me
+- 🌱 Currently learning Blockchain and MERN Stack Development
+- 💻 Passionate about building cool, modern web apps
+- 🔗 Check out my portfolio: <a href="akhilts26.github.io">my portfolio</a>
 <!--
 **akhilts26/akhilts26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
