@@ -8,8 +8,13 @@ I'm a Full Stack Development student and a passionate learner in the field of Bl
 - 🔗 Check out my portfolio: <a href="https://akhilts26.github.io/">my portfolio</a>
 
 ## 🛠️ Tech Stack
-![html](https://img.shields.io/badge/HTML-html?style=for-the-badge&logo=html5&logoColor=%23f9f9f9&color=%23303030
-)
+![html](https://img.shields.io/badge/HTML-html?style=for-the-badge&logo=html5&logoColor=%23f9f9f9&color=%23303030)
+![html](https://img.shields.io/badge/CSS-css?style=for-the-badge&logo=css&color=%23fe9200)
+![html](https://img.shields.io/badge/JAVASCRIPT-javascript?style=for-the-badge&logo=javascript&logoColor=%23fefe00&color=%23474702)
+![html](https://img.shields.io/badge/PYTHON-python?style=for-the-badge&logo=python&logoColor=%23fcfcfc&color=%230041cc)
+![html]()
+![html]()
+![html]()
 <!--
 **akhilts26/akhilts26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
