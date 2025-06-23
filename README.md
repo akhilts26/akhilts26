@@ -14,6 +14,8 @@ I'm a Full Stack Development student and a passionate learner in the field of Bl
 ![html](https://img.shields.io/badge/PYTHON-python?style=for-the-badge&logo=python&logoColor=%23fcfcfc&color=%230041cc)
 ![Static Badge](https://img.shields.io/badge/NODE.JS-08bdbd?style=for-the-badge&logo=nodedotjs&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/EXPRESS.JS-6e4b7f?style=for-the-badge&logo=express&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-ffb7c3?style=for-the-badge&logo=tailwindcss&logoColor=black)
+
 
 
 <!--
